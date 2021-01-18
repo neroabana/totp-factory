@@ -1,4 +1,3 @@
-
 const hotpOtpGenerator = require('hotp-totp-generator')
 
 const totpToken = hotpOtpGenerator.totp({ key: 'neroabana@gmail.comHENNGECHALLENGE003',
