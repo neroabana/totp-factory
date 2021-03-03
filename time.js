@@ -4,4 +4,4 @@ const totpToken = hotpOtpGenerator.totp({ key: 'neroabana@gmail.comHENNGECHALLEN
 T0: "0", X: "30", algorithm: "sha512", digits: "10" 
  });
 
-console.log(totpToken)
+console.log(totpToken);
