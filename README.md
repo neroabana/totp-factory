@@ -1,4 +1,3 @@
-
 # HOTP-TOTP-Generator
 # TO RUN THIS APP TYPE: "node time.js" without quotes at the prompt
 
